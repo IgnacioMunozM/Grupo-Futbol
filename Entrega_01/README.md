@@ -52,4 +52,28 @@ como arreglar esto
 
 ## 7- Base de datos inicial
 
-Compartan la base de datos inicial que utilizarán para el proyecto. Puede ser un archivo csv, un link a una base de datos, etc.
+### Datos sobre:
+
+### Público en los estadios:
+
+https://chile.as.com/futbol/ranking-de-publico-2023-en-el-futbol-chileno-los-tres-equipos-de-la-b-que-llevaron-mas-gente-que-la-uc-n/
+
+https://tntsports.cl/nacional/Colo-Colo-arraso-en-el-ranking-de-mas-asistencia-de-publico-en-el-2022-20221212-0028.html
+
+### Rendimiento copas internacionales
+
+https://www.adnradio.cl/futbol/2023/06/30/horrible-estadistica-solo-seis-equipos-lograron-meterse-en-8vos-de-libertadores-en-el-siglo-xxi.html
+
+### Impacto negativo de las S.A.D. en el fútbol chileno (juveniles)
+
+https://redgol.cl/udechile/borghi-ejemplifica-con-u-de-chile-el-grave-problema-que-vive-el-futbol-nacional-20231018-RDG-165877.html 
+
+https://www.diarioconcepcion.cl/deportes/2024/02/12/la-profunda-crisis-del-futbol-formativo-en-chile.html
+
+https://www.theclinic.cl/2021/09/21/nos-quedamos-sin-futuros-goleadores-la-crisis-del-futbol-de-juveniles-en-chile/
+
+### Presente de La Roja 
+
+https://www.latercera.com/el-deportivo/noticia/la-roja-se-desfonda-es-la-tercera-peor-seleccion-de-sudamerica-en-el-ultimo-lustro/XMHOATAJBFGFVOZ7XTIGCA2YQY/#
+
+
