@@ -40,15 +40,9 @@ Podemos encontrar los datos necesarios para probar nuestra hipótesis en diverso
 
 ## 6- ¿Cuál es el resultado mínimo previsible del trabajo a realizar? ¿Cuál es el máximo?
 
-Con los datos a los que logramos acceder, podemos demostrar que existe un cambio de carácter negativo en el fútbol nacional desde la llegada de las S.A. Lo mínimo que podemos contar como historia sería simplemente mostrar los datos obtenidos y hacer una comparación entre estos y los datos existentes anteriores a las sociedades anónimas, demostrando así un cambio negativo en los números. Por otro lado, lo máximo que podemos contar sería hacer una comparación entre los datos anteriores y posteriores, pero además, demostrar que las S.A. están directamente relacionadas con cada uno de los datos presentados, para así poder llevar a cabo una conexión entre la aparición de estas organizaciones y el bajo nivel del fútbol chileno.  
+Con los datos a los que logramos acceder, podemos demostrar que existe un cambio de carácter negativo en el fútbol nacional desde la llegada de las S.A. Lo mínimo que podemos contar como historia sería simplemente mostrar los datos obtenidos y hacer una comparación entre estos y los datos existentes anteriores a las sociedades anónimas, demostrando así un cambio negativo en los números. Por otro lado, lo máximo que podemos contar sería hacer una comparación entre los datos anteriores y posteriores, pero además, demostrar que las S.A. están directamente relacionadas con cada uno de los datos presentados, para así poder llevar a cabo una conexión entre la aparición de estas organizaciones y el bajo nivel del fútbol chileno.
 
-¿Qué es lo mínimo que se puede contar como historia con los datos que tienen?
-¿Qué es lo máximo que se puede contar como historia con los datos que tienen?
-¿Cuáles son las preguntas que se pueden responder con los datos?
-¿Qué tipo de elementos digitales les gustaría tener?
-¿Cómo esos elementos ayudarán a contar su historia?
-
-como arreglar esto
+Nos gustaria tener elementos digitales como tablas comparativas, videos interactivos, imagenes, hipervinculos. Esos elementos ayudaran a contar la historia porque permiten integrar mucha información pero de forma ordenanda y didactica.
 
 ## 7- Base de datos inicial
 
@@ -72,8 +66,14 @@ https://www.diarioconcepcion.cl/deportes/2024/02/12/la-profunda-crisis-del-futbo
 
 https://www.theclinic.cl/2021/09/21/nos-quedamos-sin-futuros-goleadores-la-crisis-del-futbol-de-juveniles-en-chile/
 
+https://www.latercera.com/el-deportivo/noticia/bochorno-en-la-proyeccion-colo-colo-no-inscribe-a-cuatro-jugadores-por-error-administrativo/K5W6WEBBOZHS5LA2NVHCAXFJVU/ 
+
 ### Presente de La Roja 
 
 https://www.latercera.com/el-deportivo/noticia/la-roja-se-desfonda-es-la-tercera-peor-seleccion-de-sudamerica-en-el-ultimo-lustro/XMHOATAJBFGFVOZ7XTIGCA2YQY/#
 
+
+# Link del video
+
+https://youtu.be/qgfbAuNMZ6I?si=Axg3HkCKtWeAd-kb
 
