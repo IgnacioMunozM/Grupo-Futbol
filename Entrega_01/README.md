@@ -7,7 +7,7 @@ Las sociedades anónimas llegaron al fútbol chileno hace 18 años (2005). Los c
 
 ## 2- Hipótesis: ¿Qué se quiere demostrar o revelar?
 
-Analizar cómo ha cambiado para peor el fútbol chileno desde la llegada de las sociedades anónimas.
+El fútbol chileno ha cambiado para peor desde la aparición de las sociedades anónimas.
 
 ## 3- Antecedentes:
 
@@ -21,11 +21,14 @@ En el último tiempo la administración de las sociedades anónimas (S.A.)en los
 
 ## 5- ¿Cómo planea trabajar los datos?
 
-¿Qué datos necesita para probar su hipótesis?
-¿Qué datos tiene y qué datos necesita conseguir aún? Elabore una lista de fuentes de datos.
-¿Qué datos no existen y cómo los obtendrá?
-¿Qué datos son públicos y cuáles no?
-¿Qué datos son confiables y cuáles no?
+Para poder probar nuestra hipótesis, necesitamos recolectar datos que demuestren el impacto negativo de las S.A. en diversos ámbitos del fútbol nacional, como lo son por ejemplo:
+
+1. Disminuición de público en los estadios.
+2. Declive en el rendimiento de los equipos nacionales en los tornes internacionales, como son la Copa Libertadores y Sudamericana.
+3. Declive en el rendimiento de la Selección Chilena.
+4. Bajo desarrollo de las divisiones inferiores (juveniles) de los equipos del fútbol chileno.
+
+Podemos encontrar los datos necesarios para probar nuestra hipótesis en diversos documentos y noticias de Google, por lo que no nos será una dificultad encontrar información. Una dificultad que se nos puede presentar es la fiabilidad de los datos, por lo que haremos una revisión de cada fuente antes de utilizarla.
 
 ## 6- ¿Cuál es el resultado mínimo previsible del trabajo a realizar? ¿Cuál es el máximo?
 
