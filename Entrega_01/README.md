@@ -3,7 +3,11 @@ Repositorio en el que Cristóbal Navarro, Martín Silva e Ignacio Muñoz trabaja
 
 ## 1- Explique el proyecto de investigación
 
-Las sociedades anónimas llegaron al fútbol chileno hace 18 años (2005). Los clubes sociales y deportivos de a poco empezaron a transformarse en empresas afectas al Mercado Financiero. Este proyecto de investigación busca analizar cómo ha cambiado el fútbol en Chile desde entonces, a través de distintos datos y estadísticas.
+Las sociedades anónimas llegaron al fútbol chileno hace 19 años (2005). Los clubes sociales y deportivos de a poco empezaron a transformarse en empresas afectas al Mercado Financiero. 
+
+Este proyecto de investigación busca analizar cómo ha cambiado el fútbol en Chile desde entonces, a través de distintos datos y estadísticas. Esto con el objetivo de visibilizar el impacto (se determinará a través de la investigación si es positivo o negativo) que han tenido las S.A.D en el fútbol chileno.
+
+En los últimos años se ha visto una baja en el fútbol chileno en diferentes ámbitos y a través de este estudio queremos dar cuenta de las diferentes situaciones que afectan el presente del depote más popular de Chile.
 
 ## 2- Hipótesis: ¿Qué se quiere demostrar o revelar?
 
@@ -11,9 +15,13 @@ El fútbol chileno ha cambiado para peor desde la aparición de las sociedades a
 
 ## 3- Antecedentes:
 
-¿Qué tipos de datos investigan?
-Explicar cuáles son los orígenes de los datos y su naturaleza
-¿Qué se ha publicado antes sobre el tema?
+Se analiazrán datos cuantitativa, cuando intentemos reflejar la cantidad de público asistente a los estadios, el rendimiento de clubes y sus logros a nivel internacional desde el 2005 en adelante.
+
+También se dará cuenta de datos cualitativo para dar cuenta de la pobreza que se vive en la liga chilena hoy en día y el porque en la baja de público a lo largo de los estadios de Chile. Esto porque puede existir una valoración personal a lo largo de este punto.
+
+En los últimos años se han publicado diversas noticias que dan cuenta del pobre rendimiento de clubes chilenos a nivel internacional, la baja en la asistencia de púlico en los estadios y la comparación de clubes chilenos con euipos de otras ligas del continente.
+
+Estos datos son de un origen periodístico, donde la gran mayoría de estos son publicados por medios noticieros oficiales.
 
 ## 4- ¿Cuál es la historia de su propuesta de investigación? ¿Qué es lo nuevo?
 
