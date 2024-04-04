@@ -3,11 +3,11 @@ Repositorio en el que Cristóbal Navarro, Martín Silva e Ignacio Muñoz trabaja
 
 ## 1- Explique el proyecto de investigación
 
-Síntesis del proyecto en 3-5 párrafos. Debe incorporar antecedentes clave, breve descripción del contexto e historia.
+Las sociedades anónimas llegaron al fútbol chileno hace 18 años (2005). Los clubes sociales y deportivos de a poco empezaron a transformarse en empresas afectas al Mercado Financiero. Este proyecto de investigación busca analizar cómo ha cambiado el fútbol en Chile desde entonces, a través de distintos datos y estadísticas.
 
 ## 2- Hipótesis: ¿Qué se quiere demostrar o revelar?
 
-Una o dos frases.
+Analizar cómo ha cambiado para peor el fútbol chileno desde la llegada de las sociedades anónimas.
 
 ## 3- Antecedentes:
 
@@ -16,6 +16,8 @@ Explicar cuáles son los orígenes de los datos y su naturaleza
 ¿Qué se ha publicado antes sobre el tema?
 
 ## 4- ¿Cuál es la historia de su propuesta de investigación? ¿Qué es lo nuevo?
+
+En el último tiempo la administración de las sociedades anónimas (S.A.)en los distintos clubes del fútbol chileno se han puesto bajo la lupa. Las críticas abundan. Es por esto que a casi 20 años desde que se instalaron las S.A. queremos analizar esto. Lo nuevo es que lo haremos sin sesgo, tomando en cuenta la mayor cantidad de datos, favorezca o no a las S.A.
 
 ## 5- ¿Cómo planea trabajar los datos?
 
