@@ -32,6 +32,8 @@ Podemos encontrar los datos necesarios para probar nuestra hipótesis en diverso
 
 ## 6- ¿Cuál es el resultado mínimo previsible del trabajo a realizar? ¿Cuál es el máximo?
 
+Con los datos a los que logramos acceder, podemos demostrar que existe un cambio de carácter negativo en el fútbol nacional desde la llegada de las S.A. Lo mínimo que podemos contar como historia sería simplemente mostrar los datos obtenidos y hacer una comparación entre estos y los datos existentes anteriores a las sociedades anónimas, demostrando así un cambio negativo en los números. Por otro lado, lo máximo que podemos contar sería hacer una comparación entre los datos anteriores y posteriores, pero además, demostrar que las S.A. están directamente relacionadas con cada uno de los datos presentados, para así poder llevar a cabo una conexión entre la aparición de estas organizaciones y el bajo nivel del fútbol chileno.  
+
 ¿Qué es lo mínimo que se puede contar como historia con los datos que tienen?
 ¿Qué es lo máximo que se puede contar como historia con los datos que tienen?
 ¿Cuáles son las preguntas que se pueden responder con los datos?
