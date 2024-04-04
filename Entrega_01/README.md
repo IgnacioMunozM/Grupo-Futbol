@@ -48,6 +48,8 @@ Con los datos a los que logramos acceder, podemos demostrar que existe un cambio
 ¿Qué tipo de elementos digitales les gustaría tener?
 ¿Cómo esos elementos ayudarán a contar su historia?
 
+como arreglar esto
+
 ## 7- Base de datos inicial
 
 Compartan la base de datos inicial que utilizarán para el proyecto. Puede ser un archivo csv, un link a una base de datos, etc.
