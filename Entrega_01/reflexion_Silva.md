@@ -8,7 +8,9 @@ A través de este tema, esperamos poder revelar que desde la aparición de las s
 
 ### Elabora al menos 3 ideas que te gustaría realizar para contar la historia
 
-
+1. Me gustaría poder contar los datos obtenidos a través de diferentes secciones, profundizando en cada área que investigaremos. 
+2. También me gustaría llevar a cabo la investigación en un orden cronológico, empezando por el fútbol antes de la aparición de las S.A. para continuar con el deporte después de la aparición de estas.
+3. Por último, me gustaría poder profundizar en los casos de los tres equipos más grandes del país, para de esta forma y debido a la popularidad de estos, demostrar a la gente el impacto negativo de las S.A.
 
 ### ¿Qué te gustaría aprender en este proyecto?
 
