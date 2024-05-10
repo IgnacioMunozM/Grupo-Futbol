@@ -13,3 +13,5 @@ Mis datos los elegí porque es importante conocer el rendimiento de los equipos 
 ## Qué haremos con estos datos
 
 Podremos analizar que equipos fueron más exitosos y en que temporadas, y cómo le fue a estos equipos internacionalmente. Así hacer un análisis del desempeño de estos. Podremos saber y la llegada de las sociedades anonimas al fútbol chileno los beneficiaron, afectaron y mantuvo el rendimiento.
+
+## Link de mi google colab: https://colab.research.google.com/drive/1N3HOWuQmPrYXQiII1OG1Y245-JOsFFMZ#scrollTo=hvFLXmTGZOFJ&uniqifier=1
