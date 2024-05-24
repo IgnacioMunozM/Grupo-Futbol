@@ -1,0 +1,11 @@
+## Aprendizajes
+
+En esta entrega aprendí varias cosas. Primero la importancia de fijar perfilamientos de usuarios. De esta manera, a la hora de crear el wireframe de la página web, hay mayor claridad sobre a quién le estamos contando la historia. De esta manera agregar recursos que tengan sentido con esto. El wireframe de la página web lo quisimos usar para ordenar los elemoentos graficos que utilizaremos y cómo ordenaremos la página. Un gran consejo fue no fijarnos en la estetica para el wireframe y de esa forma darle full foco a los elementos que útilizarmeos y su distribución en la futura página web. Inicialmente nos estabamos complicando mucho por la estetica, incluso utilizando paginas para wareframe que las profesoras no nos habian mencionado. Finalmente fuimos a lo que si nos mencionaron, miró, y fue un gran acierto.
+
+## Proyecciones
+
+La proyección de este proyecto para mi es alta. Tengo grandes espectativas ya que tenemos la idea de diseñar una pagina web con graficos interactivos, que sean un aporte. No solo contar la historia en forma escrita, que definitivamente lo haremos, sino que también agregar recursos para contarlo a través de los datos y del tiempo. Y de una forma muy organizada, bien estructurada, para que el usuario no se pierda en la página, al revés, para que se sienta comodo y entienda donde encontrará cada información.
+
+## Limitaciones
+
+Quizá la principal limitación es que actualmente no tenemos los conocimientos para poder realizar la idea de proyecto que planteamos, pero sabemos que es totalmente lograble. Actualmente se podria llamar limitación, pero eventualmente tal limitación desaparecerá. Otro limitante fue no encontrar una página referente cómo nuestra idea de proyecto. Enocntramos algunas que se parecian en algunas cosas, mentras que otras pagínas se parecian en otros aspectos. Pero un proyecto de investiagación deportivo, basado en datos y contado a través de ellos no lo logramos encontrar por lo que tuvimos que poner toda nuestra creatividad para diseñarlo y organizarlo.
