@@ -51,3 +51,89 @@
   - **Testimonios de Aficionados:** Relatos de cómo los cambios han afectado la experiencia del hincha.
   - **Comparaciones Internacionales:** Ejemplos de otros países para contextualizar el impacto en Chile.
   - **Análisis Crítico:** Artículos y comentarios de expertos sobre las implicaciones económicas y sociales.
+
+ 
+
+### User Journey Map
+
+### User Journey Map
+
+#### Etapas del Viaje del Usuario:
+1. **Descubrimiento**
+2. **Investigación**
+3. **Evaluación**
+4. **Compromiso**
+5. **Acción**
+
+---
+
+### 1. Descubrimiento
+- **Objetivo:** Alejandro descubre la webstory y decide explorarla para obtener información relevante sobre el impacto de las sociedades anónimas en el fútbol chileno.
+- **Touchpoints:** Redes sociales, recomendaciones de colegas, búsqueda en Google.
+- **Acciones del Usuario:** 
+  - Alejandro ve un enlace a la webstory compartido en Twitter por un colega.
+  - Hace clic en el enlace para explorar el contenido.
+- **Experiencia del Usuario:** 
+  - **Pensamientos:** "Necesito investigar cómo las sociedades anónimas han impactado al fútbol chileno."
+  - **Sentimientos:** Curiosidad, interés.
+  - **Puntos de Dolor:** Incertidumbre sobre la profundidad y fiabilidad de la información.
+- **Oportunidades:** 
+  - Asegurar que el título y la introducción sean atractivos y reflejen la relevancia y profundidad del contenido.
+
+### 2. Investigación
+- **Objetivo:** Explorar la webstory en profundidad para recopilar información detallada y verificable sobre los impactos negativos de las sociedades anónimas.
+- **Touchpoints:** Página principal de la webstory, secciones específicas (impacto deportivo, económico, social, testimonios).
+- **Acciones del Usuario:** 
+  - Alejandro navega por las secciones de la webstory, revisando gráficos interactivos, entrevistas y estudios de caso.
+- **Experiencia del Usuario:** 
+  - **Pensamientos:** "Necesito datos concretos y testimonios para mi reportaje."
+  - **Sentimientos:** Interés, preocupación por la veracidad de los datos.
+  - **Puntos de Dolor:** Dificultad para encontrar datos precisos y entrevistas relevantes.
+- **Oportunidades:** 
+  - Proveer datos estadísticos detallados y entrevistas en profundidad.
+  - Utilizar gráficos y videos para hacer más accesible la información técnica.
+
+### 3. Evaluación
+- **Objetivo:** Analizar y evaluar la información recopilada para determinar su relevancia y aplicabilidad en el reportaje.
+- **Touchpoints:** Resúmenes de secciones, opiniones de expertos, comparaciones internacionales.
+- **Acciones del Usuario:** 
+  - Alejandro toma notas sobre los puntos más relevantes y reflexiona sobre cómo estos pueden influir en su reportaje.
+  - Compara las experiencias en Chile con las de otros países.
+- **Experiencia del Usuario:** 
+  - **Pensamientos:** "¿Cómo puedo estructurar mi reportaje para que sea impactante y basado en datos sólidos?"
+  - **Sentimientos:** Determinación, enfoque.
+  - **Puntos de Dolor:** Validar la información y encontrar fuentes adicionales para corroborar los datos.
+- **Oportunidades:** 
+  - Ofrecer secciones de "Propuestas Alternativas" con ejemplos claros y aplicables.
+  - Incluir una sección de preguntas frecuentes y soluciones sugeridas.
+
+### 4. Compromiso
+- **Objetivo:** Integrar la información en su reportaje y promover la discusión en su medio de comunicación.
+- **Touchpoints:** Redacción del reportaje, reuniones editoriales, redes sociales.
+- **Acciones del Usuario:** 
+  - Alejandro escribe su reportaje utilizando la información de la webstory.
+  - Presenta el borrador a sus editores y ajusta según las sugerencias.
+  - Comparte adelantos del reportaje en sus redes sociales para generar interés.
+- **Experiencia del Usuario:** 
+  - **Pensamientos:** "Este reportaje puede hacer una diferencia en la percepción pública."
+  - **Sentimientos:** Confianza, empoderamiento.
+  - **Puntos de Dolor:** Asegurarse de que el reportaje sea aprobado y publicado sin censura.
+- **Oportunidades:** 
+  - Facilitar enlaces a estudios adicionales y contactos de expertos.
+  - Crear una sección interactiva para que otros periodistas puedan dejar comentarios y sugerencias.
+
+### 5. Acción
+- **Objetivo:** Publicar el reportaje y medir su impacto en el público y en la comunidad deportiva.
+- **Touchpoints:** Publicación en la revista, seguimiento en redes sociales, feedback de lectores.
+- **Acciones del Usuario:** 
+  - Alejandro publica el reportaje en la revista y lo promociona en redes sociales.
+  - Monitorea las reacciones y comentarios de los lectores.
+  - Participa en debates y entrevistas sobre su reportaje.
+- **Experiencia del Usuario:** 
+  - **Pensamientos:** "Este reportaje puede influir en el cambio y en la toma de decisiones."
+  - **Sentimientos:** Entusiasmo, expectativa.
+  - **Puntos de Dolor:** Evaluar el alcance y el impacto real del reportaje.
+- **Oportunidades:** 
+  - Crear una sección de "Historias de Éxito" que muestre cómo el reportaje ha influido en cambios positivos.
+  - Proveer una plataforma para que los lectores compartan sus propias experiencias y sugerencias.
+
