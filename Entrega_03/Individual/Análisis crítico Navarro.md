@@ -10,7 +10,7 @@ En un incio y por como ha sido este desarrollo, creo que todos los aspectos de l
 
 Quizás el único desafío que yo podría apreciar es el distribuir bien la información, imágenes, gráficos, líneas de tiempo, entre otros, para poder producir una grata experiencia de usuario para las personas que entren al sitio.
 
-## Proyecciones
+## Limitaciones
 
 Creo que el mayor desafío ha sido encontrar buenos referentes para la idea de lo que nosotros estamos buscando en este momento.
 
