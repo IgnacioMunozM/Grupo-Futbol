@@ -1,0 +1,4 @@
+- Data partidos: cantidad de partidos jugados desde la Copa América 2015 (solo en campeonatos oficiales, sin considerar amistosos) hasta el último partido de clasificatorias.
+- Generación Dorada: son los jugadores que fueron parte de la camada de jugadores más exitosos de la historia del fútbol chileno. Fueron la base de la Copa América 2015 y 2016. Desde el 2015 y a pesar de su edad, siguen siendo la base y son los que más partidos han jugado.
+- Recambio estable: jugadores que lograron encontrar un puesto de titular y estable dentro de la selección en el periodo mencionado.
+- Recambio fallido: jugadores que no lograron encontrar un puesto de titular y estable dentro de la selección en el periodo mencionado.
