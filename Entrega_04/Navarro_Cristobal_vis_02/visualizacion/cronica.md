@@ -1,0 +1,3 @@
+La selección chilena, tuvo su generación dorada donde jugadores como Alexis Sánches, Claudio Bravo, Artudo Vidal, entre otros, fueron la cara de La Roja, y le dieron muchas alegrías al país. Sin embargo, su edad no pasa en vano, y lamentablemente ellos siguen siendo la cara y base de la selección. 
+
+Es por esto, que con esta base de datos, se busca reflejar que los nuevos jugadores que han tenido opciones de ser titular, pero no las han aprovechado y no se han consolidado en la Selección mayor y eso es lo que esta base de datos refleja.
