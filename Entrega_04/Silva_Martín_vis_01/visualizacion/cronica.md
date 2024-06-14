@@ -1,0 +1,5 @@
+### Crónica
+
+El año 2007, la selección chilena sub 20 participó del campeonato sudamericano de la categoría. En el equipo nacional, participaron grandes figuras de la generación dorada, los cuales posteriormente quedarían en la historia del deporte chileno. En aquel campeonato, Chile lograría la clasificación al mundial de la categoría en Canadá.
+
+Desde ese campeonato, la selección ha participado en siete ocasiones en sudamericanos sub 20. En cinco ocasiones ni siquiera consiguió superar la fase de grupos. Tan solo en uno logró repetir la hazaña de clasificar al mundial (2013), pero los jugadores de ese equipo no darían el salto ni serían parte importante de la selección adulta. Desde el gran resultado que tuvo la generación dorada en 2007, no se pudo lograr una regularidad en el rendimiento, teniendo pésimas participaciones a nivel sudamericano y con tan solo una participación anormal, la cual posteriormente quedaría en el olvido.
