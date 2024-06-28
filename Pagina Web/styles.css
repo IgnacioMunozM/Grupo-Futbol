@@ -95,6 +95,12 @@ iframe {
     color: #f4f4f4;
 }
 
+.intro-textblack {
+    flex: 3;
+    margin-right: 20px;
+    color: #333;
+}
+
 .intro-image {
     flex: 1;
     max-width: 450px; /* Ajusta este valor según sea necesario */
