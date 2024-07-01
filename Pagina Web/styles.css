@@ -151,3 +151,39 @@ iframe {
     cursor: pointer;
 }
 
+.timeline {
+    display: flex;
+    position: relative;
+    background-color: #000;
+}
+
+.tl-item {
+    position: relative;
+    width: 33.3333%;
+    height: 100vh;
+    min-height: 200px;
+    color: #fff;
+    overflow: hidden;
+    transition: width 0,5s ease;
+}
+
+.tl-year {
+    position: absolute;
+    background-color: #B052D9;
+    border-radius: 10px;
+    text-shadow: 1px 1px 1px #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 1;
+}
+
+.tl-content {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    margin: 0 1.618em;
+    top: 55%;
+    opacity: 0;
+}
+
