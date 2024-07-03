@@ -151,53 +151,82 @@ iframe {
     cursor: pointer;
 }
 
-.timeline {
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+.photo-section {
     display: flex;
-    position: relative;
-    background-color: #000;
-}
-
-.tl-item {
-    position: relative;
-    width: 33.3333%;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
     height: 100vh;
-    min-height: 200px;
-    color: #fff;
-    overflow: hidden;
-    transition: width 0,5s ease;
+    background-color: #f0f0f0;
 }
 
-.tl-year {
-    position: absolute;
-    background-color: #0f0fbe;
-    border-radius: 10px;
-    text-shadow: 1px 1px 1px #000;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-    z-index: 1;
-}
-
-.tl-content {
+.photo-container {
     position: relative;
-    z-index: 1;
-    text-align: center;
-    margin: 0 1.618em;
-    top: 55%;
-    opacity: 0;
+    flex: 1;
+    height: 100%;
+    overflow: hidden;
 }
 
-.tl-bg {
-    position: absolute;
+.photo-container img {
     width: 100%;
     height: 100%;
-    top: 0;
-    left: 0;
-    background-size: cover;
-    background-position: center center;
-    transition: filter 0.5s ease;
-    filter: grayscale(0);
+    object-fit: cover;
+    transition: transform 0.5s ease;
+    transition: opacity 0,5s;
 }
 
+.photo-container .title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    z-index: 3;
+    background-color: rgba(34, 16, 112, 0.7);
+  
+
+}
+
+.photo-container .info {
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    z-index: 2;
+    transition: opacity 0.5s;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.photo-container:hover .photo-info {
+    opacity: 1;
+}
+
+.photo-container:hover img {
+    transform: scale(1.1);
+    opacity: 0.3;
+}
+
+.photo-container:hover .info {
+    opacity: 1;
+}
+
+.photo-container .info p {
+    margin: 0;
+}
 
 
