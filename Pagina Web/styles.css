@@ -3,7 +3,7 @@ body {
     line-height: 2;
     margin: 0;
     padding: 0;
-    background: #f4f4f4;
+    background: #c81515;
 }
 
 header {
@@ -32,16 +32,8 @@ main {
     padding: 1em;
 }
 
-.sectionblanco {
+.section-vis {
     background: #fff;
-    margin: 1em 0;
-    padding: 1em;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.sectionrojo {
-    background: #c81515;
     margin: 1em 0;
     padding: 1em;
     border-radius: 8px;
