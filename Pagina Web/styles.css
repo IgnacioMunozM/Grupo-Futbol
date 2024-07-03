@@ -222,3 +222,60 @@ html, body {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+.led-title {
+    text-align: center;
+}
+
+.led-text {
+    font-size: 4em;
+    color: #fff;
+    letter-spacing: 0.1em;
+    font-family: 'Neon', sans-serif;
+    text-shadow: 
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #c81515,
+        0 0 30px #c81515,
+        0 0 40px #c81515,
+        0 0 50px #c81515,
+        0 0 60px #c81515,
+        0 0 70px #c81515;
+    animation: blink 1.5s infinite;
+}
+
+@keyframes blink {
+    0%, 100% {
+        text-shadow: 
+            0 0 5px #fff,
+            0 0 10px #fff,
+            0 0 20px #c81515,
+            0 0 30px #c81515,
+            0 0 40px #c81515,
+            0 0 50px #c81515,
+            0 0 60px #c81515,
+            0 0 70px #c81515;
+    }
+    50% {
+        text-shadow: 
+            0 0 5px #c81515,
+            0 0 10px #c81515,
+            0 0 20px #c81515,
+            0 0 30px #c81515,
+            0 0 40px #c81515,
+            0 0 50px #c81515,
+            0 0 60px #c81515,
+            0 0 70px #c81515;
+    }
+}
+
