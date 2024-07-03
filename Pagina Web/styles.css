@@ -169,7 +169,7 @@ iframe {
 
 .tl-year {
     position: absolute;
-    background-color: #B052D9;
+    background-color: #0f0fbe;
     border-radius: 10px;
     text-shadow: 1px 1px 1px #000;
     top: 50%;
@@ -186,4 +186,18 @@ iframe {
     top: 55%;
     opacity: 0;
 }
+
+.tl-bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    background-position: center center;
+    transition: filter 0.5s ease;
+    filter: grayscale(0);
+}
+
+
 
