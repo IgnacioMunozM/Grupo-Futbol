@@ -13,3 +13,7 @@ Ignacio Muñoz: Editor de la web, controlando la estructura general del código,
 Cristóbal Navarro: Encargado de los productos informativos de la página para contar el contexto de la problematica y buscar ideas gráficas y de imagenes.
 
 Martín Silva: Encargado de los productos de la visualización, explicación de ello y análisis de resultados arrojados.
+
+# Link web
+
+https://ignaciomunozm.github.io/Grupo-Futbol/
