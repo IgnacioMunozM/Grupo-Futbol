@@ -6,6 +6,24 @@ body {
     background: #c81515;
 }
 
+.titulos-color {
+    line-height: 2;
+    margin: 0 225px;
+    padding: 0;
+    background: rgba(34, 16, 112, 0.7);
+}
+
+.viz-title {
+    text-align: center;
+    font-size: 2em;
+    color: #ffffff; /* Puedes cambiar este color */
+    font-family: 'Arial', sans-serif; /* Puedes cambiar la fuente */
+    margin-bottom: 20px;
+}
+
+
+
+
 header {
     background: #333;
     color: #fff;
@@ -30,6 +48,17 @@ header h2 {
 
 main {
     padding: 1em;
+}
+
+.welcome-button img {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.welcome-button img:hover {
+    transform: scale(1.1);
 }
 
 .section-vis {
@@ -133,6 +162,7 @@ iframe {
     text-align: center;
 }
 
+
 .welcome-title {
     font-size: 2.5em;
     margin: 0 0 20px;
@@ -201,6 +231,7 @@ html, body {
     z-index: 2;
     transition: opacity 0.5s;
     background-color: rgba(0, 0, 0, 0.7);
+    padding: 0px;
 }
 
 .photo-container:hover .photo-info {
@@ -219,6 +250,7 @@ html, body {
 .photo-container .info p {
     margin: 0;
 }
+
 
 
 
