@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La "Generación Dorada" de la Selección Chilena</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 </head>
 <body>
 
@@ -105,7 +109,14 @@
                                 excusas abundan. Siga recorriendo nuestra página para visualizar y conocer la historia de este fracaso.
                             </p>
                         </div>
-                        <img src="imagenchiletriste.jpg" alt="Selección chilena levantando Copa America 2016" class="intro-image-hipo">
+                        <div class="carousel-section">
+                            <div class="carousel">
+                                <div><img src="https://assets.goal.com/images/v3/blt9ad36113bf147eb6/a0e4eb22c7509edfefe2d85aa3102b0f3abefff2.jpg" alt="Imagen 1"></div>
+                                <div><img src="https://cdn.conmebol.com/wp-content/uploads/2016/06/chile-campeon-3.jpg" alt="Imagen 2"></div>
+                                <div><img src="https://static.emol.cl/emol50/fotos/2017/07/02/file_20170702154508.jpg" alt="Imagen 3"></div>
+                                <!-- Añade más imágenes según sea necesario -->
+                            </div>
+                        </div>
                     </div>
                 </section>
                 <br>
@@ -360,5 +371,18 @@
             </section>
         </main>
     </div>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.carousel').slick({
+                dots: true,
+                infinite: true,
+                speed: 300,
+                slidesToShow: 1,
+                adaptiveHeight: true
+            });
+        });
+    </script>
+
 </body>
 </html>

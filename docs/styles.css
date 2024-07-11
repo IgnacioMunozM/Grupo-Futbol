@@ -6,6 +6,16 @@ body {
     background: #c81515;
 }
 
+.carousel-section {
+    width: 40%;
+}
+
+.carousel img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
 
 
 .viz-title {
@@ -135,6 +145,7 @@ iframe {
     height: auto;
     border-radius: 8px;
 }
+
 
 .intro-images {
     flex: 1;
