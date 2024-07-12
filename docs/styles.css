@@ -31,6 +31,8 @@ body {
 
 
 
+
+
 .viz-title {
     text-align: center;
     font-size: 2em;
@@ -116,6 +118,10 @@ h3 {
 
 .colordif-section {
     background-color: #020037;
+}
+
+.colordif2-section {
+    background-color: #000000;
 }
 
 iframe {
